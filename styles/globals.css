@@ -1,0 +1,30 @@
+:root {
+    /* Layout */
+    --desktop-media-q: 1440px;
+    --mobile-media-q: 375px;
+
+    /* Colors */
+
+    --white: hsl(0, 0%, 100%);
+    --black: hsl(0, 0%, 0%);
+    --dark-gray: hsl(0, 0%, 55%);
+    --very-dark-gray: hsl(0, 0%, 41%);
+
+    /* Typography */
+
+    --font-family-a: "Alata", sans-serif;
+    --font-weight-a: 400;
+    --font-fam-j: "josefin sans";
+    --font-weight-j: 300;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'space grotesk', sans-serif;
+}
+
+body {
+    background-color: #f6f6f6;
+}
