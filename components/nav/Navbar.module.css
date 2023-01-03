@@ -1,0 +1,14 @@
+.navbar {
+    background-color: rgb(179, 0, 0);
+    color: white;
+    padding: 0.5rem;
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 75rem;
+}
